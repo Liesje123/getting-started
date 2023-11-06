@@ -1,1 +1,4 @@
+#nom de l'application
 name: my-ci
+# On déclenche le workflow sur tout push sur la branche courante
+on: [push]
